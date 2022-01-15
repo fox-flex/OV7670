@@ -1,8 +1,8 @@
 # Camera OV7670 via arduino
 
 ## About
-This project make photo using OV7670 model and send it into Serial port. </br>
-It's possible to configurate image properties in file  `src/ExampleUart.cpp` </br>
+This project make photo using Arduino Uno andOV7670 model and send it into Serial port. </br>
+It's possible to configure image properties in file `src/ExampleUart.cpp` </br>
 To get images fill in the firmware into Arduino Uno and afterwards run `read_img_from_serial.py`
 
 ## Pinout
